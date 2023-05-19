@@ -35,6 +35,8 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 Similaly fix target in the given position 
 
 ## Output
+### Name    : Sam Israel D
+### Reg.No  : 212222230128
 ![image](https://github.com/SamIsrael/EXPERIMENT---02---Spatial-Descriptions-using-Robo-DK/assets/118707037/ba20392c-ce40-4b71-b7a1-50171b9f6a30)
 
 ## Results
